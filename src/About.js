@@ -9,7 +9,7 @@ function About() {
       <header className="App-header sectionPadding maxWidth">
       <h1 className="header">
         <span>
-        About NFTs test {' '}  
+        About NFTs test 2 {' '}  
         </span>
         {/* <span>
         with a  Sustainable {' '}  
